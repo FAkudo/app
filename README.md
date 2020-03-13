@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # app
-チュートリアル
+チュートリアル１
 =======
 ```
 # To run the Hello World demo:
