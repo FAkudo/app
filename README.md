@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # app
-app flutter
+チュートリアル
 =======
 ```
 # To run the Hello World demo:
