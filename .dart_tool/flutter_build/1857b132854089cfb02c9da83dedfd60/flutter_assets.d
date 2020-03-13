@@ -1,0 +1,1 @@
+ C:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\flutter\\debug\\flutter_assets\\AssetManifest.json C:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\flutter\\debug\\flutter_assets\\FontManifest.json C:\\flutter\\examples\\hello_world\\build\\app\\intermediates\\flutter\\debug\\flutter_assets\\LICENSE:  C:\\flutter\\examples\\hello_world\\pubspec.yaml

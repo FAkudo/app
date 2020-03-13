@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "C:\\flutter\\examples\\starter"
+		},
+		{
+			"path": "C:\\flutter\\examples\\hello_world"
+		},
+		{
+			"path": "C:\\flutter\\examples\\hello_world\\test"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		}
+	}
+}
